@@ -1,6 +1,8 @@
 <html>
 <body>
 
+![Corprate](bootcampFiles/logo.PNG)
+
 # **Team & Product Name**
 
 ### **`Corprate`**
