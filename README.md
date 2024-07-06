@@ -1,7 +1,7 @@
 <html>
 <body>
 
-![Corprate](bootcampFiles/logo.PNG)
+![Corprate](bootcampFiles/logo.png)
 
 # **Team & Product Name**
 
