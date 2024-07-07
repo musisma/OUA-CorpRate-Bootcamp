@@ -138,8 +138,7 @@
 
   <details>
     <summary><h3>Sprint 1 - Burndown Chart</h3></summary>
-    <img src="bootcampFiles/logo.png" style="max-width: 100%; height: auto;">
-    <img src="bootcampFiles/logo.png" style="max-width: 100%; height: auto;">
+    <img src="bootcampFiles/burndown.png" style="max-width: 100%; height: auto;">
   </details>
 
 
@@ -165,10 +164,17 @@
   - **Tamamlanan Puan**: `(120 puan tamamlandı)`
   
   - **Sprint Review:**
-    - Sprint Değerlendirmesi
+    - 1. Sprint için ağırlıklı olarak UI üzerine çalıştık.
+    - Kulanacağımız teknolojileri belirledik.
+    - Yeteneklerimize göre kod yazma ve tasarım kısımlarının kimde olması gerektiğine karar verdik.
+    - Sprint için 8 görev belirledik ve yaşanan tüm aksaklıklara rağmen başarılı şekilde tüm görevleri tamamladık.
+    - Projemizin hedef kitlesini ve çalışma mantığını net şekilde belirledik.
   
   - **Sprint Retrospective:**
-    - Sprint Retrospective
+    - 2. Sprint için daha planlı ve iletişim halinde çalışmamız gerekiyor.
+    - Görevlerin tanımları Jira üzerinde daha net açıklanabilirdi.
+    - Daily Scrum toplantıları ekibin iş yoğunluklarına göre daha esnek düzenlenmeli
+    - Kod yazamayanların iş yükünü takım içinde daha dengeli paylaştırmalıyız.
  </details>
 
   ---
