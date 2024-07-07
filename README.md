@@ -19,7 +19,7 @@
       <th>Socials</th>
     </tr>
     <tr>
-      <td><img src="" width="50" height="50" /></td>
+      <td><img src="bootcampFiles/musta.jpg" width="50" height="50" /></td>
       <td>Mustafa İsmail Öztürk</td>
       <td>Scrum Master</td>
       <td>
@@ -29,7 +29,7 @@
       </td>
     </tr>
     <tr>
-      <td><img src="" width="50" height="50" /></td>
+      <td><img src=bootcampFiles/irem.png"" width="50" height="50" /></td>
       <td>İrem Atlı</td>
       <td>Product Owner</td>
       <td>
@@ -38,7 +38,7 @@
       </td>
     </tr>
     <tr>
-      <td><img src="" width="50" height="50" /></td>
+      <td><img src="bootcampFiles/muhammet.png" width="50" height="50" /></td>
       <td>Muhammet Ünveren</td>
       <td>Developer</td>
       <td>
@@ -56,7 +56,7 @@
       </td>
     </tr>
     <tr>
-      <td><img src="" width="50" height="50" /></td>
+      <td><img src="bootcampFiles/ilayda.png" width="50" height="50" /></td>
       <td>İlayda Kaptanoğlu</td>
       <td>Designer</td>
       <td>
