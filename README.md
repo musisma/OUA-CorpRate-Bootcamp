@@ -125,7 +125,8 @@
 
   <details>
     <summary><h3>Sprint 1 - Sprint 1 Jira Screenshots</h3></summary>
-    <img src="bootcampFiles/logo.png" style="max-width: 100%; height: auto;">
+    <img src="bootcampFiles/jira1.png" style="max-width: 100%; height: auto;">
+    <img src="bootcampFiles/jira2.png" style="max-width: 100%; height: auto;">
   </details>
 
   <details>
