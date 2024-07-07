@@ -112,13 +112,13 @@
       <td colspan="4" style="text-align: center;"><h2>Profil Sayfası</h2></td>
     </tr>
     <tr>
-      <td style="width: 25%;"><img src="bootcampFiles/app1.png" style="max-width: 100%; height: auto;"></td>
+      <td style="width: 25%;"><img src="bootcampFiles/app1.jpeg" style="max-width: 100%; height: auto;"></td>
     </tr>
     <tr>
       <td colspan="4" style="text-align: center;"><h2>Takip Et Sayfası</h2></td>
     </tr>
     <tr>
-      <td style="width: 25%;"><img src="bootcampFiles/app1.png" style="max-width: 100%; height: auto;"></td>
+      <td style="width: 25%;"><img src="bootcampFiles/app1.jpeg" style="max-width: 100%; height: auto;"></td>
     </tr>
   </table>
   </details>   
@@ -166,5 +166,3 @@
  </details>
 
   ---
-
-  <details>
