@@ -3,19 +3,19 @@
 
 ![Corprate](bootcampFiles/logo.png)
 
-# **Team & Product Name**
+# **Takım & Proje İsmi**
 
 ### **`Corprate`**
 
-# Information About Team and Product
+# Takım ve Ürün Hakkındaki Bilgiler
 
-  ## Team Members
+  ## Takım Üyeleri
 
   <table>
     <tr>
       <th></th>
-      <th>Name</th>
-      <th>Title</th>
+      <th>İsim</th>
+      <th>Görev</th>
     </tr>
     <tr>
       <td><img src="bootcampFiles/musta.jpg" width="50" height="50" /></td>
@@ -164,14 +164,14 @@
   - **Tamamlanan Puan**: `(120 puan tamamlandı)`
   
   - **Sprint Review:**
-    - 1. Sprint için ağırlıklı olarak UI üzerine çalıştık.
+    - Birinci Sprint için ağırlıklı olarak UI üzerine çalıştık.
     - Kulanacağımız teknolojileri belirledik.
     - Yeteneklerimize göre kod yazma ve tasarım kısımlarının kimde olması gerektiğine karar verdik.
     - Sprint için 8 görev belirledik ve yaşanan tüm aksaklıklara rağmen başarılı şekilde tüm görevleri tamamladık.
     - Projemizin hedef kitlesini ve çalışma mantığını net şekilde belirledik.
   
   - **Sprint Retrospective:**
-    - 2. Sprint için daha planlı ve iletişim halinde çalışmamız gerekiyor.
+    - İkinci Sprint için daha planlı ve iletişim halinde çalışmamız gerekiyor.
     - Görevlerin tanımları Jira üzerinde daha net açıklanabilirdi.
     - Daily Scrum toplantıları ekibin iş yoğunluklarına göre daha esnek düzenlenmeli
     - Kod yazamayanların iş yükünü takım içinde daha dengeli paylaştırmalıyız.
