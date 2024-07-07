@@ -67,7 +67,7 @@ class _ProfileScreenState extends State<ProfileScreen> {
                           ),
                         ),
                         child: const Text(
-                          'Profili Düzenle',
+                          'Follow',
                           style: TextStyle(
                             fontStyle: FontStyle.italic,
                             color: Colors.white,
