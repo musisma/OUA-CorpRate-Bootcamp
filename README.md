@@ -58,7 +58,7 @@
     <tr>
       <td><img src="" width="50" height="50" /></td>
       <td>İlayda Kaptanoğlu</td>
-      <td>Developer</td>
+      <td>Designer</td>
       <td>
         <a href="https://github.com/" target="_blank"><img src="" width="20" height="20"/></a>
         <a href="https://www.linkedin.com/" target="_blank"><img src="" width="20" height="20" /></a>
@@ -75,12 +75,12 @@
   
   
   
-  ## Product Description
-  Kuruluşların Gerçek Değerini Keşfedin! Corprate, şirketler, okullar ve vakıflar gibi pek çok kuruluşu anonim bir şekilde en ince ayrıntılarına kadar değerlendirebileceğiniz kapsamlı bir mobil anket uygulamasıdır. İş dünyasında, eğitim sektöründe ve sivil toplum kuruluşlarındaki anlık durumlarla alakalı gerçeği öğrenmek ve paylaşmak için ihtiyacınız olan her şeyi tek bir platformda sunar. Corprate rakiplerine kıyasla benzersiz bir uygulamadır. Kullanıcıların günlük yalnızca 5 dakika ayırmalarını sağlayarak bağlı oldukları kuruluşlardaki güncel durumlara dair mini anketler doldurmalarını sağlar. Big data veriler anonim olarak her gün uygulamada paylaşılır ve size de kurumda şeffaklığın tadını çıkarmak kalır.
+  ## Ürün Açıklaması
+  Kuruluşların Gerçek Değerini Keşfedin! Corprate, şirketler, okullar ve vakıflar gibi pek çok kuruluşu anonim bir şekilde en ince ayrıntılarına kadar değerlendirebileceğiniz kapsamlı bir mobil anket uygulamasıdır. İş dünyasından, eğitim sektörüne ve sivil toplum kuruluşlarına kadar pek çok kurumun imkanlarıyla alakalı gerçeği öğrenmek ve paylaşmak için ihtiyacınız olan her şeyi tek bir uygulamada sunar. Corprate rakiplerine kıyasla benzersiz bir uygulamadır. Kullanıcıların günlük yalnızca 5 dakika ayırmalarını sağlayarak bağlı oldukları kuruluşlardaki güncel durumlara dair mini anketler doldurmalarını sağlar. Big data veriler anonim olarak her gün uygulamada paylaşılır ve size de kurumda şeffaklığın tadını çıkarmak kalır.
 
 
   <details>
-    <summary><h2>Product Features</h2></summary>
+    <summary><h2>Ürün Özellikleri</h2></summary>
 
   <h3>Güncel Veriler:</h3>
     <p>Corprate kullanıcıların çalıştıkları veya etkileşimde bulundukları şirketleri, okulları ve vakıfları gerçek zamanlı olarak değerlendirmelerini sağlar. Bu değerlendirmeler, kullanıcı deneyimlerini ve memnuniyetini objektif bir şekilde yansıtır.</p>
