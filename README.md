@@ -29,7 +29,7 @@
       </td>
     </tr>
     <tr>
-      <td><img src=bootcampFiles/irem.png"" width="50" height="50" /></td>
+      <td><img src="bootcampFiles/irem.png" width="50" height="50" /></td>
       <td>İrem Atlı</td>
       <td>Product Owner</td>
       <td>
@@ -56,7 +56,7 @@
       </td>
     </tr>
     <tr>
-      <td><img src="bootcampFiles/ilayda.png" width="50" height="50" /></td>
+      <td><img src="bootcampFiles/ilayda.jpg" width="50" height="50" /></td>
       <td>İlayda Kaptanoğlu</td>
       <td>Designer</td>
       <td>
