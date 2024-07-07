@@ -98,3 +98,71 @@
   </details>
 
   --- 
+
+  ![sprints](bootcampFiles/logo.png)
+
+  <details>
+    <summary><h1>Sprint 1</h1></summary>
+
+
+  <details>
+    <summary><h3>Sprint 1 - App Screenshots</h3></summary>
+  <table style="width: 100%;">
+    <tr>
+      <td colspan="4" style="text-align: center;"><h2>Anasayfa ve Profil Sayfası</h2></td>
+    </tr>
+    <tr>
+      <td style="width: 25%;"><img src="bootcampFiles/logo.png" style="max-width: 100%; height: auto;"></td>
+      <td style="width: 25%;"><img src="bootcampFiles/logo.png" style="max-width: 100%; height: auto;"></td>
+      <td style="width: 25%;"><img src="bootcampFiles/logo.png" style="max-width: 100%; height: auto;"></td>
+    </tr>
+    <tr>
+      <td colspan="4" style="text-align: center;"><h2>Anasayfa ve Profil Sayfası</h2></td>
+    </tr>
+  </table>
+  </details>   
+
+
+  <details>
+    <summary><h3>Sprint 1 - Sprint 1 Jira Screenshots</h3></summary>
+    <img src="bootcampFiles/logo.png" style="max-width: 100%; height: auto;">
+  </details>
+
+  <details>
+    <summary><h3>Sprint 1 - Burndown Chart</h3></summary>
+    <img src="bootcampFiles/logo.png" style="max-width: 100%; height: auto;">
+    <img src="bootcampFiles/logo.png" style="max-width: 100%; height: auto;">
+  </details>
+
+
+**Sprint Notları**:
+
+    - Daily Scrum toplantılarını yapmak için 'Discord' tercih edildi.
+    
+    - Veri görselleştirilmesi için 'PieChart' paketi tercih edildi.
+
+    - Proje yönetimi için 'Jira' programı tercih edildi.
+
+    - UI dizaynı için 'Figma' programı tercih edildi.
+
+    - Uygulama mimarisi için 'MVVM' tercih edildi.
+
+    - Uygulama veri tabanı için 'Firebase' tercih edildi.
+    
+    - Yönlendirme sistemi için 'Getx' tercih edildi.
+
+    - Firebase'in Sunduğu Email üzerinde kayıt sistemi tercih edildi.
+    
+  - **Sprint için Belirlenen Toplam Puan**: 120 puan
+  - **Tamamlanan Puan**: `(120 puan tamamlandı)`
+  
+  - **Sprint Review:**
+    - Sprint Değerlendirmesi
+  
+  - **Sprint Retrospective:**
+    - Sprint Retrospective
+ </details>
+
+  ---
+
+  <details>
