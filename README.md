@@ -30,7 +30,7 @@
     <tr>
       <td><img src="bootcampFiles/muhammet.png" width="50" height="50" /></td>
       <td>Muhammet Ünveren</td>
-      <td>Developer</td>
+      <td>Pasif Üye</td>
     </tr>
     <tr>
       <td><img src="" width="50" height="50" /></td>
