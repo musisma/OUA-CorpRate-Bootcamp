@@ -178,3 +178,65 @@
  </details>
 
   ---
+
+  <details>
+    <summary><h1>Sprint 2</h1></summary>
+
+
+  <details>
+    <summary><h3>Sprint 2 - App Screenshots</h3></summary>
+  <table style="width: 100%;">
+    <tr>
+      <td colspan="1" style="width: 25%;"><img src="" style="max-width: 100%; height: auto;"></td>
+    </tr>
+    <tr>
+      <td colspan="4" style="text-align: center;"><h2>Anket Sayfası</h2></td>
+    </tr>
+    <tr>
+      <td colspan="4"><img src="bootcampFiles/" style="max-width: 100%; height: auto;"></td>
+    </tr>
+  </table>
+  </details>  
+
+  <details>
+    <summary><h3>Sprint 1 - Sprint 1 Jira Screenshots</h3></summary>
+    <img src="bootcampFiles/" style="max-width: 100%; height: auto;">
+    <img src="bootcampFiles/" style="max-width: 100%; height: auto;">
+  </details>
+
+  <details>
+    <summary><h3>Sprint 1 - Sprint 1 Figma Screenshots</h3></summary>
+    <img src="bootcampFiles/" style="max-width: 100%; height: auto;">
+    <img src="bootcampFiles/" style="max-width: 100%; height: auto;">
+  </details>
+
+  <details>
+    <summary><h3>Sprint 1 - Burndown Chart</h3></summary>
+    <img src="bootcampFiles/" style="max-width: 100%; height: auto;">
+  </details>
+
+
+
+  - **Sprint Notes**:
+    - 
+
+
+
+
+
+**Sprint Notları**:
+
+    - 
+    
+  - **Sprint için Belirlenen Toplam Puan**: 120 puan
+  - **Tamamlanan Puan**: `(120 puan tamamlandı)`
+  
+  - **Sprint Review:**
+    - 
+  
+  - **Sprint Retrospective:**
+    - 
+ </details>
+
+
+  </details>
