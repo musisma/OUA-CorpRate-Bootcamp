@@ -200,18 +200,18 @@
 
   <details>
     <summary><h3>Sprint 2 Jira Screenshots</h3></summary>
-    <img src="bootcampFiles/sprint2jira1" style="max-width: 100%; height: auto;">
-    <img src="bootcampFiles/sprint2jira2" style="max-width: 100%; height: auto;">
+    <img src="bootcampFiles/sprint2jira1.png" style="max-width: 100%; height: auto;">
+    <img src="bootcampFiles/sprint2jira2.png" style="max-width: 100%; height: auto;">
   </details>
 
   <details>
     <summary><h3>Sprint 2 Figma Screenshots</h3></summary>
-    <img src="bootcampFiles/sprint2figma" style="max-width: 100%; height: auto;">
+    <img src="bootcampFiles/sprint2figma.png" style="max-width: 100%; height: auto;">
   </details>
 
   <details>
     <summary><h3>Sprint 2 Burndown Chart</h3></summary>
-    <img src="bootcampFiles/sprint2burndown" style="max-width: 100%; height: auto;">
+    <img src="bootcampFiles/sprint2burndown.png" style="max-width: 100%; height: auto;">
   </details>
 
 
