@@ -187,32 +187,31 @@
     <summary><h3>Sprint 2 - App Screenshots</h3></summary>
   <table style="width: 100%;">
     <tr>
-      <td colspan="1" style="width: 25%;"><img src="" style="max-width: 100%; height: auto;"></td>
+      <td colspan="1" style="width: 25%;"><img src="bootcampFiles/1.png" style="max-width: 100%; height: auto;"></td>
     </tr>
     <tr>
-      <td colspan="4" style="text-align: center;"><h2>Anket Sayfası</h2></td>
+      <td colspan="4"><img src="bootcampFiles/2.png" style="max-width: 100%; height: auto;"></td>
     </tr>
     <tr>
-      <td colspan="4"><img src="bootcampFiles/" style="max-width: 100%; height: auto;"></td>
+      <td colspan="4"><img src="bootcampFiles/3.png" style="max-width: 100%; height: auto;"></td>
     </tr>
   </table>
   </details>  
 
   <details>
-    <summary><h3>Sprint 1 - Sprint 1 Jira Screenshots</h3></summary>
-    <img src="bootcampFiles/" style="max-width: 100%; height: auto;">
-    <img src="bootcampFiles/" style="max-width: 100%; height: auto;">
+    <summary><h3>Sprint 2 Jira Screenshots</h3></summary>
+    <img src="bootcampFiles/sprint2jira1" style="max-width: 100%; height: auto;">
+    <img src="bootcampFiles/sprint2jira2" style="max-width: 100%; height: auto;">
   </details>
 
   <details>
-    <summary><h3>Sprint 1 - Sprint 1 Figma Screenshots</h3></summary>
-    <img src="bootcampFiles/" style="max-width: 100%; height: auto;">
-    <img src="bootcampFiles/" style="max-width: 100%; height: auto;">
+    <summary><h3>Sprint 2 Figma Screenshots</h3></summary>
+    <img src="bootcampFiles/sprint2figma" style="max-width: 100%; height: auto;">
   </details>
 
   <details>
-    <summary><h3>Sprint 1 - Burndown Chart</h3></summary>
-    <img src="bootcampFiles/" style="max-width: 100%; height: auto;">
+    <summary><h3>Sprint 2 Burndown Chart</h3></summary>
+    <img src="bootcampFiles/sprint2burndown" style="max-width: 100%; height: auto;">
   </details>
 
 
