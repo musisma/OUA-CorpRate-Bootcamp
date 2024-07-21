@@ -223,26 +223,32 @@
 
 **Sprint Notları**:
 
-    -Uygulamada kulanıcıların açılan anketlere katılabilmesi için arayüz oluşturuldu
+    - Uygulamada kulanıcıların açılan anketlere katılabilmesi için arayüz oluşturuldu
     
-    -Ana ekran yeniden düzenlendi ve akış oluşturuldu
+    - Ana ekran yeniden düzenlendi ve akış oluşturuldu
     
-    -Firebase bağlantıları için hazırlık yapıldı
+    - Firebase bağlantıları için hazırlık yapıldı
     
-    -Uygulama giriş ekranları yeniden düzenlendi
+    - Uygulama giriş ekranları yeniden düzenlendi
     
-    -App bar üzerine 4 ana sekme eklendi
+    - App bar üzerine 4 ana sekme eklendi
     
-    -Bildirim sistemi hazırlandı
+    - Bildirim sistemi hazırlandı
     
   - **Sprint için Belirlenen Toplam Puan**: 120 puan
   - **Tamamlanan Puan**: `(120 puan tamamlandı)`
   
   - **Sprint Review:**
-    - 
+    - İkinci Sprint için ağırlıklı olarak uygulama mimarisine çalıştık
+    - Ekipte kod yazma görevini Mustafa İsmail Öztürk ve İrem Atlı üstlendi
+    - Muhamet Ünveren kendi isteğiyle ekipten ayrıldı
+    - Uygulamanın anket yanıtlama sistemi için hazırlıklara başlandı
   
   - **Sprint Retrospective:**
-    - 
+    - Bu sprint içinde iletişim anlamında kendimizi geliştirmemiz gerektiğini gördük
+    - Hızlanmak amacıyla tüm kod yazma işlemlerini iki kişinin üstlenmesine kara verdik
+    - Ekip içinde iyi düzeyde uyumu yakaladık
+    - Önümüzdeki sprint için veritabanı işlemlerini tamamlamamız gerekiyor
  </details>
 
 
