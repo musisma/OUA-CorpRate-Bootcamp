@@ -195,6 +195,12 @@
     <tr>
       <td colspan="4"><img src="bootcampFiles/3.png" style="max-width: 100%; height: auto;"></td>
     </tr>
+    <tr>
+      <td colspan="4"><img src="bootcampFiles/4.png" style="max-width: 100%; height: auto;"></td>
+    </tr>
+      <tr>
+      <td colspan="4"><img src="bootcampFiles/5.png" style="max-width: 100%; height: auto;"></td>
+    </tr>
   </table>
   </details>  
 
