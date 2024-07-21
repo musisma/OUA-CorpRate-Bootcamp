@@ -215,17 +215,19 @@
   </details>
 
 
-
-  - **Sprint Notes**:
-    - 
-
-
-
-
-
 **Sprint Notları**:
 
-    - 
+    -Uygulamada kulanıcıların açılan anketlere katılabilmesi için arayüz oluşturuldu
+    
+    -Ana ekran yeniden düzenlendi ve akış oluşturuldu
+    
+    -Firebase bağlantıları için hazırlık yapıldı
+    
+    -Uygulama giriş ekranları yeniden düzenlendi
+    
+    -App bar üzerine 4 ana sekme eklendi
+    
+    -Bildirim sistemi hazırlandı
     
   - **Sprint için Belirlenen Toplam Puan**: 120 puan
   - **Tamamlanan Puan**: `(120 puan tamamlandı)`
