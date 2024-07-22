@@ -220,6 +220,12 @@
     <img src="bootcampFiles/sprint2burndown.png" style="max-width: 100%; height: auto;">
   </details>
 
+  <details>
+    <summary><h3>Sprint 2 Daily Scrum Screenshots</h3></summary>
+    <img src="bootcampFiles/scrum1.png" style="max-width: 100%; height: auto;">
+    <img src="bootcampFiles/scrum2.png" style="max-width: 100%; height: auto;">
+  </details>
+
 
 **Sprint Notları**:
 
