@@ -241,8 +241,9 @@
     
     - Bildirim sistemi hazırlandı
     
-  - **Sprint için Belirlenen Toplam Puan**: 120 puan
-  - **Tamamlanan Puan**: `(120 puan tamamlandı)`
+  - **Sprint için Belirlenen Toplam Puan**: 120 puan (1. Sprint için belirlenen puan 120)
+  - **Toplam Tamamlanan Puan**: `(240 puan tamamlandı)`
+  - **Puan Tamamlama Mantığı**: Her iki Sprint için 4 tasarım 4 kod olmak üzere 8 görev belirlendi. Zorluk düzeyleri her üye için eşit ayarlandığı için her bir görev 15 puan sayıldı. 
   
   - **Sprint Review:**
     - İkinci Sprint için ağırlıklı olarak uygulama mimarisine çalıştık
